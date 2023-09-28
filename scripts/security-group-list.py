@@ -1,6 +1,7 @@
 ####################################################################
 ##    Date:28-09-2023                                             ##
 ##    Owner:Hardik Kalkani                                        ##
+##    Version: 1.0                                                ##
 ####################################################################
 
 # This script finds all unused security groups in a single AWS Region
